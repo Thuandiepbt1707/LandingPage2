@@ -1,2 +1,3 @@
-# Pet_project_3
-Cắt giao diện từ template mẫu design bootstrap bằng HTML và CSS
+# Freelance 1
+Khách hàng yêu cầu cắt giao diện từ template mẫu design bootstrap bằng HTML và CSS <br>
+Đồng thời chỉnh sửa bố cục, giao diện phù hợp với ý tưởng của khách
